@@ -5,19 +5,17 @@ A simple maven repository to host 1.0.2 of gcm.jar for android development with 
 
 Add these fellows to your pom.xml:
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-
 <repositories>
-	É
+	...
         <repository>
             <id>gcm-maven-repository</id>
             <url>https://raw.github.com/4impact/gcm-maven-repository/master/releases/</url>
         </repository>
-	..
+	...
     </repositories>
 
     <dependencies>
-	É        
+	...        
          <dependency>
             <groupId>com.google.android.gcm</groupId>
             <artifactId>gcm</artifactId>
