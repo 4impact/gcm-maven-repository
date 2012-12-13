@@ -5,7 +5,7 @@ A simple maven repository to host 1.0.2 of gcm.jar for android development with 
 
 Add these fellows to your pom.xml:
 
-<repositories>
+	<repositories>
 	...
         <repository>
             <id>gcm-maven-repository</id>
@@ -27,5 +27,5 @@ Add these fellows to your pom.xml:
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 Many thanks to:
-SŽbastien Lorber for the inspiration - https://github.com/slorber/gcm-server-repository
+Sebastien Lorber for the inspiration - https://github.com/slorber/gcm-server-repository
 Chas Emerick for the instructions - http://cemerick.com/2010/08/24/hosting-maven-repos-on-github/
