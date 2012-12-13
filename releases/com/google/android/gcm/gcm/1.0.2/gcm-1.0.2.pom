@@ -6,4 +6,6 @@
     <artifactId>gcm</artifactId>
     <version>1.0.2</version>
     <description>Manually created pom to get gcm.jar into github</description>
+    <dependencies>
+    </dependencies>
 </project>
