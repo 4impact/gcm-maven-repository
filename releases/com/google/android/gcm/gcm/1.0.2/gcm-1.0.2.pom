@@ -6,11 +6,4 @@
     <artifactId>gcm</artifactId>
     <version>1.0.2</version>
     <description>Manually created pom to get gcm.jar into github</description>
-    <dependencies>
-        <dependency>
-            <groupId>com.google.android</groupId>
-            <artifactId>android</artifactId>
-            <version>2.3.3</version>
-        </dependency>
-    </dependencies>
 </project>
